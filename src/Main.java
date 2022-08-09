@@ -5,7 +5,7 @@ public class Main {
         int c = 2003;
         long d = 10000L;
         float e = 1.24f;
-        double f = 58.658;
+        double f = 58.657;
         char j = 33;
 
         float boxerOne = (float) 78.2;
