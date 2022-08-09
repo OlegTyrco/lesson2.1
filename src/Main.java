@@ -3,7 +3,7 @@ public class Main {
         byte a = 12;
         short b = 100;
         int c = 2003;
-        long d = 10000L;
+        long d = 10005L;
         float e = 1.24f;
         double f = 58.657;
         char j = 33;
