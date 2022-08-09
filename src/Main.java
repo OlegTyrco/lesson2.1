@@ -11,9 +11,7 @@ public class Main {
         float boxerOne = (float) 78.2;
         float boxerTwo = (float) 82.7;
         float boxersWeight = (float) (boxerOne + boxerTwo);
-        {
-            System.out.println("Общий вес двух бойцов " + boxersWeight + " кг!");
-        }
+        System.out.println("Общий вес двух бойцов " + boxersWeight + " кг!");
         float weightDifference = (float) (boxerTwo - boxerOne);
         System.out.println("Разница между бойцами " + weightDifference + " кг!");
 
