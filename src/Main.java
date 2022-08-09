@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         byte a = 12;
-        short b = 100;
+        short b = 108;
         int c = 2003;
         long d = 10005L;
         float e = 1.24f;
